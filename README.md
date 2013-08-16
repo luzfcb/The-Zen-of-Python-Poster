@@ -7,5 +7,5 @@ The full colour version, looks stunning when printed on size A2 paper in a black
 ### zen\_poster\_white\_dark\_grey.pdf
 The black and white version, still looks awesome. Optimized for black and white printers.
 
-## License
-Copyright © 2012 [Matt Stevens of Dirty Monkey Ltd](http://www.dirtymonkey.co.uk), released under [this](http://creativecommons.org/licenses/by-nc-nd/2.0/uk/) Creative Commons License.
+### Licence
+Copyright © 2012—2014 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under [this](http://creativecommons.org/licenses/by-nc-nd/2.0/uk/) Creative Commons License.
