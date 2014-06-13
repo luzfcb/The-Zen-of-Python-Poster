@@ -10,7 +10,7 @@ and white printers.
 +-----------------------------------------------+------------------------------------------------------+--------------------------------------------------+
 | Full Colour                                   | Printed and Framed                                   | Black and White                                  |
 +===============================================+======================================================+==================================================+
-| .. image:: images/python-poster.png           | .. image:: images/zen-poster-framed.jpg              | .. image:: images/python-poster-bw.png           |
+| .. image:: http://goo.gl/Dnh7cR               | .. image:: http://goo.gl/uhMeh8                      | .. image:: http://goo.gl/UjtEfe                  |
 |     :alt: Zen of Python Poster - Full Colour  |     :alt: Zen of Python Poster - Printed and framed  |     :alt: Zen of Python Poster - Black and White |
 +-----------------------------------------------+------------------------------------------------------+--------------------------------------------------+
 
