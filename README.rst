@@ -16,7 +16,7 @@ and white printers.
 
 License
 -------
-Copyright © 2014 `Matt Deacalion Stevens`_, released under `this`_ Creative Commons License.
+Copyright © 2015 `Matt Deacalion Stevens`_, released under `this`_ Creative Commons License.
 
 .. _full colour version: zen_poster.pdf?raw=True
 .. _black and white version: zen_poster_white_dark_grey.pdf?raw=True
