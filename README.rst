@@ -21,4 +21,4 @@ Copyright © 2015 `Matt Deacalion Stevens`_, released under `this`_ Creative Com
 .. _full colour version: zen_poster.pdf?raw=True
 .. _black and white version: zen_poster_white_dark_grey.pdf?raw=True
 .. _Matt Deacalion Stevens: http://dirtymonkey.co.uk
-.. _this: http://creativecommons.org/licenses/by-nc-nd/2.0/uk/
+.. _this: http://creativecommons.org/licenses/by-sa/4.0/
